@@ -1,9 +1,12 @@
-<h1 align="center">From Private Experience to Collective State</h1>
+<h1 align="center">From Private Experience to Collective State: A Survey of Multi-Agent Memory Formation and Maintenance</h1>
 
-<p align="center"><strong>A Survey of Multi-Agent Memory Formation and Maintenance</strong></p>
+<p align="center">
+  Yiqi Wang, <b>Jiaqi Zhang</b>, Zhangkai Wu, Mingkai Zheng, Zequn Sun, Yiqun Duan, Zirui Liu, Zhihao Hao, Taotao Cai
+</p>
 
-
-> Yiqi Wang, Jiaqi Zhang, Zhangkai Wu, Mingkai Zheng, Zequn Sun, Yiqun Duan, Zirui Liu, Zhihao Hao, Taotao Cai
+<div align="center">
+  <a href="https://www.researchgate.net/profile/Yiqi-Wang-42/publication/413963742_From_Private_Experience_to_Collective_State_A_Survey_of_Multi-Agent_Memory_Formation_and_Maintenance"><img src="https://img.shields.io/badge/Paper-ResearchGate-00CCBB?style=for-the-badge" alt="Paper" /></a>
+</div>
 
 ## 📌 Contents
 
@@ -19,7 +22,6 @@
 - [Survey Roadmap](#-survey-roadmap)
 - [Representative Works by Theme](#-representative-works-by-theme)
 - [Figures](#-figures)
-- [Repository Structure](#-repository-structure)
 - [Citation](#-citation)
 
 ## 💡 Overview
@@ -331,7 +333,7 @@ The 42 works below reproduce the grouping and ordering of the representative pap
 
 ## 🎥 Figures
 
-These are high-resolution PNG exports (300 DPI) of the four vector-PDF figures used in the manuscript. Because the source files are named independently of their order in the paper, manuscript Figures 1–4 correspond to `Figure1.pdf`, `Figure3.pdf`, `Figure2.pdf`, and `Figure5.pdf`, respectively. See [the manuscript](paper.pdf) for the figures in context.
+These are high-resolution PNG exports (300 DPI) of the four vector-PDF figures used in the manuscript. Because the source files are named independently of their order in the paper, manuscript Figures 1–4 correspond to `Figure1.pdf`, `Figure3.pdf`, `Figure2.pdf`, and `Figure5.pdf`, respectively. See the [archived manuscript on Zenodo](https://doi.org/10.5281/zenodo.22288996) for the figures in context.
 
 ### Figure 1: Object-Transition-Guarantee-Evaluation Framework
 
@@ -370,13 +372,15 @@ Task success and retrieval accuracy remain necessary, but they are insufficient 
 If you find this survey useful, please consider citing it:
 
 ```bibtex
-@misc{wang2026privateexperience,
-  author    = {Yiqi Wang and Jiaqi Zhang and Zhangkai Wu and Mingkai Zheng and Zequn Sun and Yiqun Duan and Zirui Liu and Zhihao Hao and Taotao Cai},
-  title     = {{From Private Experience to Collective State: A Survey of Multi-Agent Memory Formation and Maintenance}},
-  month     = sep,
-  year      = {2026},
-  publisher = {Zenodo},
-  doi       = {10.5281/zenodo.22288996},
-  url       = {https://doi.org/10.5281/zenodo.22288996}
+@article{wangprivate,
+  author={Yiqi Wang and
+          Jiaqi Zhang and
+          Zhangkai Wu and
+          Mingkai Zheng and
+          Zequn Sun and
+          Yiqun Duan and
+          Zirui Liu and
+          Zhihao Hao and
+          Taotao Cai},
+  title={From Private Experience to Collective State: A Survey of Multi-Agent Memory Formation and Maintenance}
 }
-```
